@@ -1,6 +1,6 @@
 # DRW-measurement
 
-这里存放着论文《如何无偏测量活动星系核光学光变性质？》的源码（论文链接待补充）。仓库结构如下：
+这里存放着论文《如何无偏测量活动星系核光学光变性质？》的源码（https://iopscience.iop.org/article/10.3847/1538-4357/ad072f/pdf）。仓库结构如下：
 
 * `DRW_library.py` 生成、拟合DRW曲线的模块
 * `Suberlak_moudle.py` 从Suberlak的Github上下载的模块，用于复现他的结果
